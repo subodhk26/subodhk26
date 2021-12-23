@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Subodh Kumar, Research Scholar.
+- 👋 Hi, I’m Subodh Kumar, Research Scholar.
 - 👀 I’m interested in Computer vision, blockchain, deep learning, and security of digital media.
 - 🌱 I’m currently learning blockchain and deep learning.
 - 📫 How to reach me: Email: subodh.mcs17.du@gmail.com
